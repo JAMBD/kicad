@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name cap_iso_pwr)(type KiCad)(uri ${KIPRJMOD}/cap_iso_pwr.pretty)(options "")(descr ""))
+)

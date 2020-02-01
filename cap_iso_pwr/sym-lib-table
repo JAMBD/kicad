@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name cap_iso_pwr)(type Legacy)(uri /home/bagel/kicad/cap_iso_pwr/cap_iso_pwr.lib)(options "")(descr ""))
+)
